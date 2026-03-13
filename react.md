@@ -36,6 +36,7 @@ setupClickHandler();
 ```
 
 ### Hooks
+[youtubue](https://www.youtube.com/watch?v=Ktg8eLUiCk8&t=2487s)
 useEffect
 ### State Reducer Pattern
 How do you optimize performance in a large React application?
