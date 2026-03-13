@@ -35,6 +35,26 @@ function setupClickHandler() {
 setupClickHandler();
 ```
 
-### Why React
+### Hooks
+useEffect
+### State Reducer Pattern
+How do you optimize performance in a large React application?
+Common techniques:
+
+React.memo
+
+useMemo
+
+useCallback
+
+Code splitting (React.lazy)
+
+Virtualization (react-window)
+
+Avoid unnecessary re-renders
+
+Memoized selectors
+
+Proper key usage
 
 
