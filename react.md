@@ -1,3 +1,10 @@
+### optimization tech
+1.lazy
+2. re-render with memo
+3. react profiler
+4. virtualization
+https://medium.com/@iamabhinav30/optimizing-react-application-performance-best-practices-and-techniques-6e9b4ef1beb1
+
 ### javascript fund
 
 1. var is global scope, let is block scope
