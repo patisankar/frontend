@@ -5,6 +5,8 @@
 4. virtualization
 https://medium.com/@iamabhinav30/optimizing-react-application-performance-best-practices-and-techniques-6e9b4ef1beb1
 
+[react new archetecuture](https://reactnative.dev/architecture/landing-page)
+ This was came when I reviewing [shopify](https://shopify.engineering/shop-app-migration), 
 ### javascript fund
 
 1. var is global scope, let is block scope
